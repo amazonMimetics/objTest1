@@ -68,24 +68,6 @@
                                                 <field name="NUM">200</field>
                                               </block>
                                             </value>
-                                            <next>
-                                              <block type="oled_cleardisplay" id="105">
-                                                <next>
-                                                  <block type="oled_setcursor" id="114" inline="true">
-                                                    <value name="STARTX">
-                                                      <block type="math_number" id="121">
-                                                        <field name="NUM">70</field>
-                                                      </block>
-                                                    </value>
-                                                    <value name="STARTY">
-                                                      <block type="math_number" id="128">
-                                                        <field name="NUM">53</field>
-                                                      </block>
-                                                    </value>
-                                                  </block>
-                                                </next>
-                                              </block>
-                                            </next>
                                           </block>
                                         </next>
                                       </block>
